@@ -1,2 +1,2 @@
 # AI-Tour-Guide 🚀
-This repo will store AI Tour Guide files 🐳😊
+This repo will store AI Personal Tour Guide files 🐳😊
