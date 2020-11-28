@@ -1,2 +1,7 @@
 # AI-Tour-Guide 🚀
 This repo will store AI Personal Tour Guide files 🐳😊
+
+<div align="center">
+  <h4 align="left">DEMOSTRATION :</h4>
+  <img width="256" src="https://github.com/Ruhul12/AI-Tour-Guide/blob/main/assets/gif/ai-tour-guide.gif">
+</div>
