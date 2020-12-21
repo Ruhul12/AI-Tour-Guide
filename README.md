@@ -10,6 +10,6 @@ This repo will store AI Personal Tour Guide files 🐳😊
 
 ## Bugs 🥱
 
-> if there any known bugs found please let me know. Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. 
-> Email: 👉 ruhulaminparvez007@gmail.com 😊 Thank you!
+> *if there any known bugs found please let me know. Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. 
+> Email: 👉 ruhulaminparvez007@gmail.com 😊 Thank you!*
 
